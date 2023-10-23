@@ -5,13 +5,13 @@
 
 - 📫 How to reach me **cwj5210@gmail.com**
 
-- I am learning blockchain technology.
+- I am learning <strong>blockchain</strong> technology.
 
-- I can use NextJS, wagmi, solidity, ethers and some other tools to build DApp.
+- I can use <strong>NextJS</strong>, <strong>wagmi</strong>, <strong>solidity</strong>, <strong>ethers</strong> and some other tools to build DApp.
 
 - strong passion for coding and blockchain
+- living in Shanghai
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
