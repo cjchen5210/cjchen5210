@@ -11,6 +11,7 @@
 
 - strong passion for coding and blockchain
 - living in Shanghai
+- Cardiff University
 
 <p align="left">
 </p>
