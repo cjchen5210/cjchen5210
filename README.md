@@ -5,11 +5,7 @@
 
 - 📫 How to reach me **cwj5210@gmail.com**
 
-- I am learning <strong>blockchain</strong> technology.
-
-- I can use <strong>NextJS</strong>, <strong>wagmi</strong>, <strong>solidity</strong>, <strong>ethers</strong> and some other tools to build DApp.
-
-- strong passion for coding and blockchain
+- I can use <strong>NextJS</strong>, <strong>JavaScript/TypeScript</strong>, <strong>Node JS</strong>, 
 - living in Shanghai
 - Cardiff University
 
